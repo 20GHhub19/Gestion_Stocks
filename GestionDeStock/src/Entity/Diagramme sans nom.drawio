@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T17:44:54.255Z" agent="5.0 (Windows)" etag="IFUh97oDEl_pCAubOL2n" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T17:46:59.628Z" agent="5.0 (Windows)" etag="KMeQa8LkoaufrbmFPXyi" version="20.3.0" type="github">
   <diagram id="CZFZglCQrVF00FaZ8p-G" name="Page-1">
     <mxGraphModel dx="1038" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="g5PEc4XbCpuGmHoVax5Q-13" value="SousCategorie" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="840" width="160" height="86" as="geometry" />
+          <mxGeometry x="640" y="880" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="g5PEc4XbCpuGmHoVax5Q-14" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="g5PEc4XbCpuGmHoVax5Q-13">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="g5PEc4XbCpuGmHoVax5Q-25" value="Categorie" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="870" width="160" height="86" as="geometry" />
+          <mxGeometry x="160" y="880" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="g5PEc4XbCpuGmHoVax5Q-26" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="g5PEc4XbCpuGmHoVax5Q-25">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
